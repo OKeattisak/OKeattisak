@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OKeattisak
 - 👀 I’m interested in Backend Developer ✨
-- 🌱 I’m currently learning Laravel Framework, Node.js ✨
+- 🌱 I’m currently learning Laravel Framework, Node.js, Vue.js ✨
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
